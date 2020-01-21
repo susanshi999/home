@@ -1,0 +1,42 @@
+html
+{
+	font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;
+	background-image: url("RM-family.jpg");
+	color: white;
+	margin: 0 10% 0 10%;
+	/* margin-left: 10% */
+	/* max-width: 25em; */
+} /*Running Man theme*/
+
+p
+{
+	font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;
+	color: white;
+	margin: 0 10% 0 10%;
+	/* margin-left: 10% */
+	/* max-width: 25em; */
+} /*Song Ji Hyo theme*/
+
+dl
+{
+   font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;
+   color: white;
+   padding: 20px;
+   margin: 0 10% 0 10%;
+} /*Song Ji Hyo theme*/
+
+ul
+{
+   font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;
+   color: white;
+   padding: 20px;
+   margin: 0 10% 0 10%;
+} /*Yoo Jae Suk theme*/
+
+ol
+{
+	font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;
+   color: white;
+   padding: 20px;
+   margin: 0 10% 0 10%;
+} /*Kim Jong Kook theme*/
